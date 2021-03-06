@@ -1,13 +1,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
-logo: 
-author: themefisher
+title: Lam Nguyen
+logo:
+author: Lâm Nguyễn
 description: this is meta description
-email: steve.fruits@email.com
+email: lamnguyen@gmail.com
 phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+address: 146 Quán Thánh
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Lâm Nguyễn <br> fashion designer
 
 social:
 - {icon: "ti-facebook", link: "#"}
